@@ -1,1 +1,1 @@
-<img src="magazine.pdf"></img>
+<embed src="magazine.pdf"></embed>
